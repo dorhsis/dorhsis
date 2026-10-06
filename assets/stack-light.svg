@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="424" viewBox="0 0 880 424" role="img" aria-labelledby="title desc">
+  <title id="title">Just to Study platform architecture</title>
+  <desc id="desc">A Next.js student app, an Angular teacher and admin workspace and a Flutter mobile app talk to a Spring Boot API over REST and WebSocket. The API covers live lessons, homework, the adaptive placement test, the course catalog and notifications, and stores data in PostgreSQL, files in MinIO and sends push through Firebase Cloud Messaging.</desc>
+  <rect x="20" y="20" width="264" height="68" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="40" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">Student web app</text>
+  <text x="40" y="69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">Next.js 16 · React 19</text>
+  <rect x="308" y="20" width="264" height="68" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="328" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">Teacher &amp; admin workspace</text>
+  <text x="328" y="69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">Angular 17 · TypeScript</text>
+  <rect x="596" y="20" width="264" height="68" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="616" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">Mobile app</text>
+  <text x="616" y="69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">Flutter · Dart</text>
+  <line x1="152" y1="88" x2="152" y2="130" stroke="#d1d9e0" stroke-width="1.5"/>
+  <line x1="440" y1="88" x2="440" y2="130" stroke="#d1d9e0" stroke-width="1.5"/>
+  <line x1="728" y1="88" x2="728" y2="130" stroke="#d1d9e0" stroke-width="1.5"/>
+  <line x1="152" y1="130" x2="728" y2="130" stroke="#d1d9e0" stroke-width="1.5"/>
+  <line x1="440" y1="130" x2="440" y2="168" stroke="#d1d9e0" stroke-width="1.5"/>
+  <text x="452" y="154" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start">REST · WebSocket (STOMP)</text>
+  <rect x="20" y="168" width="840" height="120" rx="8" fill="#f6f8fa" stroke="#1a7f37" stroke-width="1.5"/>
+  <text x="44" y="201" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1f2328" text-anchor="start">Spring Boot 3.5 API</text>
+  <text x="44" y="223" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">Java 21 · Spring Security · JWT · Flyway</text>
+  <rect x="44" y="242" width="114.0" height="28" rx="14" fill="#1a7f371f"/>
+  <text x="56.0" y="260.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start">live lessons</text>
+  <rect x="168.0" y="242" width="159.0" height="28" rx="14" fill="#1a7f371f"/>
+  <text x="180.0" y="260.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start">homework &amp; grading</text>
+  <rect x="337.0" y="242" width="196.5" height="28" rx="14" fill="#1a7f371f"/>
+  <text x="349.0" y="260.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start">adaptive test · 3PL IRT</text>
+  <rect x="543.5" y="242" width="129.0" height="28" rx="14" fill="#1a7f371f"/>
+  <text x="555.5" y="260.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start">course catalog</text>
+  <rect x="682.5" y="242" width="121.5" height="28" rx="14" fill="#1a7f371f"/>
+  <text x="694.5" y="260.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start">notifications</text>
+  <line x1="152" y1="288" x2="152" y2="336" stroke="#d1d9e0" stroke-width="1.5"/>
+  <line x1="440" y1="288" x2="440" y2="336" stroke="#d1d9e0" stroke-width="1.5"/>
+  <line x1="728" y1="288" x2="728" y2="336" stroke="#d1d9e0" stroke-width="1.5"/>
+  <rect x="20" y="336" width="264" height="68" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="40" y="364" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">PostgreSQL 15</text>
+  <text x="40" y="385" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">schema via Flyway migrations</text>
+  <rect x="308" y="336" width="264" height="68" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="328" y="364" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">MinIO · S3</text>
+  <text x="328" y="385" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">audio, lesson files, covers</text>
+  <rect x="596" y="336" width="264" height="68" rx="8" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1"/>
+  <text x="616" y="364" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1f2328" text-anchor="start">Firebase Cloud Messaging</text>
+  <text x="616" y="385" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#59636e" text-anchor="start">push to the mobile app</text>
+</svg>
