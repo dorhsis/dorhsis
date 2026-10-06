@@ -1,6 +1,6 @@
 ### Miras · full-stack engineer at [Just to Study](https://github.com/jtsapp)
 
-I build an English-learning platform end to end: live online lessons with a teacher, homework, an adaptive placement test and a course catalog from A0 to B2. My work spans all four codebases — the Spring Boot API and its migrations, the Angular workspace for teachers and admins, the Next.js student app and the Flutter mobile app. Since June 2026 that's 380+ merged pull requests.
+I am building an English-learning platform end to end: live online lessons with a teacher, homework, an adaptive placement test and a course catalog from A0 to B2. My work spans all four codebases — the Spring Boot API and its migrations, the Angular workspace for teachers and admins, the Next.js student app and the Flutter mobile app. Since June 2026 that's 380+ merged pull requests.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
